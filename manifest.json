@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "AI对话导出 · 原格式排版",
+  "version": "1.6.27",
+  "description": "隔离复制版：Word、PDF、HTML 保留标题、加粗、列表、引用、代码与表格；沿用对话标题命名及批量功能。",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://chat.baochaolab.com/*"
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "AI对话导出",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  }
+}

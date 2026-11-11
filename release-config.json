@@ -1,0 +1,17 @@
+{
+  "product": "ai",
+  "name": "AI 对话导出",
+  "currentVersion": "1.6.27",
+  "homepageUrl": "https://chat.baochaolab.com/",
+  "updateUrl": "https://chat.baochaolab.com/",
+  "downloadUrl": "https://chat.baochaolab.com/",
+  "releaseNotesUrl": "https://chat.baochaolab.com/",
+  "notes": [
+    "移除全网站持续访问权限；点击插件后临时访问当前对话页，仅更新站点保留固定权限。",
+    "清理停用脚本与私人信息，保留原昵称、二维码和引流内容；保留原弹窗、四种模式五种格式及PDF/Word排版。",
+    "Gemini HTML保持段落并去掉来源标签；正文、附件名称、图片引用和跟进文字保留。",
+    "按用户要求移除返回主站的引流链接，昵称与二维码保留。"
+  ],
+  "releaseDate": "2026-11-11",
+  "support": "小红书 @温柔爆炒"
+}
